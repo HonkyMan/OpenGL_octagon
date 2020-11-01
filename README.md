@@ -3,13 +3,13 @@
 How to create simple project on OpenGL cpp. Drawing polygons (octagons) with points and moving, rotating them
 
 ## Пример работы программы (An example of the program)
-###Создание восьмиугольника (Creating octagons)
+### Создание восьмиугольника (Creating octagons)
 ![Пример работы приложения (An example of the program)](/creating.gif)
 
-###Перемещение восьмиугольника (Moving octagons)
+### Перемещение восьмиугольника (Moving octagons)
 ![Пример работы приложения (An example of the program)](/moving.gif)
 
-###Вращение восьмиугольника (Rotating octagons)
+### Вращение восьмиугольника (Rotating octagons)
 ![Пример работы приложения (An example of the program)](/rotating.gif)
 
 ## Ссылка на код программы (Code link)
